@@ -1,6 +1,7 @@
 var slideImg = document.getElementById("slideImg");
 
 var image = new Array(
+    
     "image/picture1.jpg",
     "image/picture6.jpg",
     "image/picture3.jpg",
